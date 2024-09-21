@@ -17,5 +17,6 @@ channels. We utilize the Chain-of-Thought(CoT) technique of generative large lan
 
 ### International Chinese Intelligent Teaching System
 Under the context of digital transformation in education, we have developed an intelligent teaching platform for international Chinese language education. In this project, I am responsible for constructing a knowledge graph for a specific domain and have developed an automated question generation system based on the knowledge graph.
-<img src="{{ site.url }}/images/kg.jpg" class="bio-photo" width="600" height="300">
+<img src="{{ site.url }}/images/kg.jpg" class="bio-photo" width="800" height="400">
+<br><br>
 <img src="{{ site.url }}/images/zi.jpg" class="bio-photo" width="600" height="300">
