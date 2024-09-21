@@ -13,4 +13,4 @@ This project focuses on LLMs Reasoning Analysis, exploring the mechanisms of Cha
 
 In real-world scenarios, most data is stored in relational databases. To visualize this data, it is first necessary to generate a structured query statements based on the user’s visualization requirements(NL2SQL), and then proceed with the subsequent visualization operations. This study breaks down the task of automatic visualization of tabular data in relational databases into three main steps:  generating SQL, determining the chart type, and mapping data to visual
 channels. We utilize the Chain-of-Thought(CoT) technique of generative large language models to address the task of automatic visualization of tabular data. Finally, we evaluated our approach on the nvBench dataset, and the results show that CoT-based automatic visualization of tabular data performs well.<br>
-<img src="{{ site.url }}/images/workflow.jpg" class="bio-photo" width="200" height="100"></a>
+<img src="{{ site.url }}/images/workflow.jpg" class="bio-photo" width="500" height="200">
