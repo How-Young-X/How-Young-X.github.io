@@ -19,6 +19,6 @@ I'm currently on a gap and focusing on research in Multi-Modal Large Models(MMLM
 
 
 ## Academic Background
-<!-- - **July 2024 - :** Nanjing University (Research Assistant) -->
+- **July 2024 - :** Nanjing University (Research Assistant)
 - **Sep 2021 - June 2024:** Bejing Language and Cultural University (Master's Degree in Computer Science)
 - **Sep 2017 - June 2021:** Qingdao University of Technology University (Bachelor's Degree in Computer Science)
